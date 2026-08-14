@@ -1,0 +1,17 @@
+# Eclipse-generated output and workspace data
+/bin/
+/.metadata/
+
+# Accidental nested Eclipse project artifacts
+/src/Chess/.classpath
+/src/Chess/.project
+/src/Chess/bin/
+
+# Java and operating-system generated files
+*.class
+*.log
+.DS_Store
+Thumbs.db
+
+# Local saved games
+*.jchess
