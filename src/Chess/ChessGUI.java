@@ -1988,7 +1988,7 @@ public class ChessGUI extends JFrame {
             } else if (currentTurn == PieceColor.WHITE) {
                 statusLabel.setText("You are in check!");
             } else {
-                statusLabel.setText("The computer is in check!");
+                statusLabel.setText("The computer is in check! be careful");
             }
 
         } else if (!computerMode) {
